@@ -1,7 +1,12 @@
 {
     "cSpell.words": [
+        "Kwjp",
         "upvote"
     ],
     "workbench.preferredDarkColorTheme": "Solarized Dark",
-    "workbench.colorTheme": "Tomorrow Night Blue"
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "cSpell.ignoreWords": [
+        "db",
+        "newsfeed"
+    ]
 }
